@@ -6,5 +6,7 @@ fun = function(one)
   txt <- 'hi'
   three <- two+ 1
   if(txt == 'hi') 4
-  5}
-{
+  5
+}
+
+#this is ass
